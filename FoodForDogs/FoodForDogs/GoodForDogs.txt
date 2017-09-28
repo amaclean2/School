@@ -1,0 +1,28 @@
+chicken
+duck
+fish
+beef
+turkey
+liver
+heart
+apples
+bananas
+melon
+berries
+potatoes
+sweet potatoes
+pumpkin
+spinach
+green beans
+broccoli
+cauliflower
+oatmeal
+barley
+quinoa
+brown rice
+pasta
+white rice
+egg
+yogurt
+cottage cheese
+peanut butter

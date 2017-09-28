@@ -1,0 +1,57 @@
+Copy the following cases into the input file
+
+BEGIN
+END.
+
+begin
+
+BEGIN
+END
+
+BEGIN
+if(5 = 2)
+then
+begin
+end;
+END.
+
+begin
+if 5 = 2
+then write(hello);
+end.
+
+begin if 5 = 2
+then write(hello)
+end.
+
+begin
+integer a = 1;
+end.
+
+begin
+integer a;
+a = 1;
+end.
+
+integer a = 1;
+
+begin
+a + 2;
+end.
+
+begin
+if(a != 5)
+then begin write(hello); end;
+end.
+
+begin
+integer a;
+a = 10;
+integer i;
+i = 0;
+while ( i < a )
+do
+i = i + 1;
+end.
+
+

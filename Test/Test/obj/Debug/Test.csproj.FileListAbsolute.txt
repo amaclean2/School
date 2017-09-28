@@ -1,0 +1,11 @@
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\bin\Debug\Users.mdf
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\bin\Debug\Users_log.ldf
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\Andrew\Desktop\VisualStudio Projects\Test\Test\obj\Debug\Test.pdb

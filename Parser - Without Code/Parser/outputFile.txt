@@ -1,0 +1,28 @@
+1:  BEGIN
+2:  comment find if n is prime
+3:  integer n;
+4:  n := 10;
+5:  integer a;
+6:  integer b;
+7:  logical composite;
+8:  composite := false;
+9:  a := 0;
+10:  while a * a < n
+11:  do
+12:  	begin
+13:  	while composite != true
+14:  	do
+15:  
+16:  		b := 0;
+17:  		begin
+18:  		if a * b = n
+19:  		then composite := true;
+20:  		b := b + 1;
+21:  		end;
+22:  	a := a + 1;
+23:  	end;
+24:  if composite != true
+25:  then write ( n );
+26:  if composite = true
+27:  then write ( n );
+28:  END.

@@ -1,0 +1,2 @@
+Scanner Output:
+BEGIN7, INTEGER3, A1, ;16, INTEGER3, B1, ;16, INTEGER3, C1, ;16, INTEGER3, D1, ;16, A1, :=19, 52, ;16, B1, :=19, 22, ;16, C1, :=19, 32, ;16, D1, :=19, A1, -4, B1, -4, C1, -4, 52, -4, 32, ;16, END8, .18, 

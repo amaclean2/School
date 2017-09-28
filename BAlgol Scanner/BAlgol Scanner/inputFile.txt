@@ -1,0 +1,39 @@
+BEGIN
+: 2bcd COMMENT abc
+a234bcd
+STRING(hello)
+string(hello)
+string what?
+12abc
+Begin
+Then
+()
+;
+# % 456
+-123
+True
+true1
+WHILE(i = 5)
+INTEger
+IF WHILE
+READ END
+STRING DO
+END
+
+BEGIN COMMENT SAMPLE PROBLEM;
+	     INTEGER N;	
+	     REAL MAX, PRICE, SUM;  COMMENT we won't need the comma;
+	     N := 0;
+	     SUM := 0;
+	     MAX := 0;
+	     READ(PRICE);
+	     WHILE PRICE > 0 DO
+		BEGIN
+		N := N + 1;
+		SUM := SUM + PRICE;
+		IF PRICE > MAX 
+		   THEN MAX := PRICE;
+		READON(PRICE);   COMMENT readon not included in tiny Algol-W;
+		END;
+	     WRITE(N,SUM,MAX)
+	     END.

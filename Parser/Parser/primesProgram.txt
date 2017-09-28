@@ -1,0 +1,35 @@
+BEGIN
+comment Parser Test
+integer n;
+logical prime;
+prime := true;
+
+comment n is the number to check;
+n := 10;
+integer i;
+i := 0;
+
+while((i * i) < 10)
+do i := i + 1;
+
+integer j;
+integer k;
+j := 0;
+while (j < i and prime = true)
+do
+	BEGIN
+	k := j;
+	while(k < n or (k * j) != n)
+	do k := k + 1;
+	if((k * j) = n)
+	then prime := false;
+	if((k * j) != n)
+	then j := j + 1;
+	END;
+
+if prime = true
+then write("prime");
+if prime = false
+then write("composite");
+
+END.

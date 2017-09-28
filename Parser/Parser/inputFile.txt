@@ -1,0 +1,11 @@
+BEGIN
+integer a;
+integer b;
+integer c;
+integer d;
+a := 5;
+b := 2;
+c := 3;
+d := a - b - c - 5 - 3;
+
+END.

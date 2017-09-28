@@ -1,0 +1,11 @@
+1:  BEGIN
+2:  integer a;
+3:  integer b;
+4:  integer c;
+5:  integer d;
+6:  a := 5;
+7:  b := 2;
+8:  c := 3;
+9:  d := a - b - c - 5 - 3;
+10:  
+11:  END.

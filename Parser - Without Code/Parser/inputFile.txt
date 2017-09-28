@@ -1,0 +1,28 @@
+BEGIN
+comment find if n is prime
+integer n;
+n := 10;
+integer a;
+integer b;
+logical composite;
+composite := false;
+a := 0;
+while a * a < n
+do
+	begin
+	while composite != true
+	do
+
+		b := 0;
+		begin
+		if a * b = n
+		then composite := true;
+		b := b + 1;
+		end;
+	a := a + 1;
+	end;
+if composite != true
+then write ( n );
+if composite = true
+then write ( n );
+END.

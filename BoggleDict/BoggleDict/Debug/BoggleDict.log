@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\andrew\desktop\visualstudio projects\boggledict\boggledict\wordtree.h(262): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BoggleDict.vcxproj -> C:\Users\Andrew\Desktop\VisualStudio Projects\BoggleDict\Debug\BoggleDict.exe
+  BoggleDict.vcxproj -> C:\Users\Andrew\Desktop\VisualStudio Projects\BoggleDict\Debug\BoggleDict.pdb (Partial PDB)
